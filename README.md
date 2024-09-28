@@ -1,15 +1,15 @@
 <h1 align="left">
-  Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+  Hello! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 </h1>
 
 <img align="right" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" width="300" alt="GitHub Logo" style="margin-left: 20px;" />
 
 <p style="font-size: 18px; line-height: 1.6;">
-  I'm a 17-year-old systems programmer pursuing a degree in <strong>Web Development</strong>. I love creating dynamic web applications and continuously improving my skills.
+  I’m a 17-year-old systems programmer passionate about <strong>Web Development</strong>. I enjoy crafting dynamic web applications and continuously strive to enhance my coding skills.
 </p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-  I have experience with various languages and technologies, including:
+  Here are some of the languages and technologies I work with:
 </p>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -19,3 +19,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
+
+<p style="font-size: 18px; line-height: 1.6;">
+  Feel free to connect with me and collaborate on exciting projects! 🚀
+</p>
