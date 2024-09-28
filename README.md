@@ -2,13 +2,9 @@
 
 <img align="right" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" width="400" alt="Anime Banner" style="margin-left: 20px;" />
 
-<p>
-  I am a 17-year-old systems programmer currently pursuing a degree in Web Development. With a passion for coding and technology, I thrive on creating dynamic and responsive web applications. My goal is to continuously enhance my skills and contribute to innovative projects.
-</p>
+I am a 17-year-old systems programmer currently pursuing a degree in Web Development. With a passion for coding and technology, I thrive on creating dynamic and responsive web applications. My goal is to continuously enhance my skills and contribute to innovative projects.
 
-<p>
-  I have experience with several programming languages and technologies, including:
-</p>
+I have experience with several programming languages and technologies, including:
 
 <div>
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
