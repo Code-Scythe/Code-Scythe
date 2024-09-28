@@ -2,7 +2,7 @@
   Hello! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 </h1>
 
-<img align="right" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" width="300" alt="GitHub Logo" style="margin-left: 20px;" />
+<img align="right" src="https://www.shareicon.net/data/2016/06/20/606964_github_4096x4096.png" width="300" alt="GitHub Logo" style="margin-left: 20px;" />
 
 <p style="font-size: 18px; line-height: 1.6;">
   I’m a 17-year-old systems programmer passionate about <strong>Web Development</strong>. I enjoy crafting dynamic web applications and continuously strive to enhance my coding skills.
