@@ -5,11 +5,11 @@
 <img align="right" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" width="300" alt="GitHub Logo" style="margin-left: 20px;" />
 
 <p style="font-size: 18px; line-height: 1.6;">
-  I am a 17-year-old systems programmer currently pursuing a degree in <strong>Web Development</strong>. With a passion for coding and technology, I thrive on creating dynamic and responsive web applications. My goal is to continuously enhance my skills and contribute to innovative projects.
+  I'm a 17-year-old systems programmer pursuing a degree in <strong>Web Development</strong>. I love creating dynamic web applications and continuously improving my skills.
 </p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-  I have experience with several programming languages and technologies, including:
+  I have experience with various languages and technologies, including:
 </p>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
