@@ -1,6 +1,4 @@
-<h1 align="left">
-  Hello! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-</h1>
+Hello! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 
 <img align="right" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" width="300" alt="GitHub Logo" style="margin-left: 20px;" />
 
